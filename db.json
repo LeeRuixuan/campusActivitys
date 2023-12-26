@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "name": "Science Fair",
-        "detail": "Join us for the annual Science Fair showcasing innovative projects.",
-        "image": "https://example.com/images/event1.jpg"
+        "name": "校园运动会",
+        "detail": "这是学校开展的运动会",
+        "image": "https://imgs.699pic.com/01/500/416/879/500416879.jpg!list2x.v1"
     },
     {
         "id": 2,
-        "name": "Music Concert",
-        "detail": "Enjoy an evening of classical music performances by our students.",
-        "image": "https://example.com/images/event2.jpg"
+        "name": "校园音乐节",
+        "detail": "这是学校开展的音乐节",
+        "image": "https://pic.616pic.com/bg_w1180/00/02/27/fCWmAl6SEK.jpg!/fh/300"
     },
     {
         "id": 3,
-        "name": "Art Exhibition",
-        "detail": "Explore the latest art creations by students and faculty.",
-        "image": "https://example.com/images/event3.jpg"
+        "name": "关爱老人敬老活动",
+        "detail": "这是学校开展的敬老活动",
+        "image": "https://imgs.rednet.cn/data/91/IMAGE_TENANT_LIB/IMAGE/7008145/2023/10/25/b7e4171e1f974eb2be38ce5a1811e362.png"
     }
 ]
